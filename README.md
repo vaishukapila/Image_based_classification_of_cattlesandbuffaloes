@@ -34,3 +34,6 @@ The goal of this project is to develop an AI-based system that recognizes animal
 -Can be integrated with Bharat Pashudhan App
 
 -Designed to work in real field conditions
+
+<img width="1899" height="1010" alt="Image" src="https://github.com/user-attachments/assets/7af393f1-4a4e-470b-bba2-11fcbedf7a88" />
+<img width="1912" height="1006" alt="Image" src="https://github.com/user-attachments/assets/b2b13731-22dc-45eb-9eac-453da444aa6a" />
