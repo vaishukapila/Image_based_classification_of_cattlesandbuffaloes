@@ -256,7 +256,7 @@ st.markdown('<h1 class="main-title">🐄 Cattle & Buffalo Breed Identification</
 
 
 # -------------------- GEMINI API --------------------
-API_KEY = "AIzaSyCJv8tanTPTQYfXrGP-hz5i6d9v3Kr8JAE"  # Add your API key here
+API_KEY = ""  # Add your API key here
 if not API_KEY:
     st.error("⚠ Please add your Google AI API key in the API_KEY variable.")
     st.stop()
